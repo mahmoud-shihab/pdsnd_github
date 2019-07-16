@@ -1,13 +1,13 @@
 ### Date created
-   Code Creation: 07 Jun. 2019
-Project Creation: 16 Jun. 2019
- README Creation: 16 Jul. 2019
+   Code Creation: 07 Jun. 2019 <br/>
+Project Creation: 16 Jun. 2019 <br/>
+ README Creation: 16 Jul. 2019 <br/>
 
 ### Project Title
 Explore US Bikeshare Data
 
 ### Description
-A simple script that takes bikesharing data from 3 cities and returns statistics based on user input of which city, which month, and what day of the week.
+A simple script that takes bikesharing data from 3 cities and returns statistics based on user input of which city, which month, and what day of the week.<br/>
 Statistics returned:
 - Most popular station
 - Most frequent times of travel
@@ -19,7 +19,7 @@ Statistics returned:
 - Most Frequent Birth Year
 
 ### Files used
-BikeSharing Data from Chicago, Washington, and New York City.
+BikeSharing Data from Chicago, Washington, and New York City.<br/>
 Links:
 - https://www.divvybikes.com/system-data
 - https://www.citibikenyc.com/system-data
